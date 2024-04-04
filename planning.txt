@@ -1,0 +1,9 @@
+voting application
+what ???
+A functionlaiyt where user can give the vote to candidate
+modules
+routes
+ voting app afunctionality
+  user sign in?sign up
+  see the list of candidate
+  
